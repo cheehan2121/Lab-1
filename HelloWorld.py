@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 ppp is coolio
 =======
-ppp is cooliooooooooooo
+ppp is coolio
+oooooooooo
 >>>>>>> bug-fix1
